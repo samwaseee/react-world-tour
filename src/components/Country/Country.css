@@ -1,0 +1,10 @@
+.country{
+    border: 0.35rem solid red;
+    margin : 1rem;
+    padding: 1rem;
+    border-radius: 2rem;
+}
+
+.visited{
+    background: red;
+}
